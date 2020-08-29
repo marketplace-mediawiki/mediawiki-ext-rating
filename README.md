@@ -1,8 +1,8 @@
-# Information / Информация
+# Information
 
 Интеграция рейтинга в статью.
 
-## Install / Установка
+## Install
 
 1. Загрузите папки и файлы в директорию `extensions/MW_EXT_Rating`.
 2. В самый низ файла `LocalSettings.php` добавьте строку:
@@ -11,7 +11,7 @@
 wfLoadExtension( 'MW_EXT_Rating' );
 ```
 
-## Syntax / Синтаксис
+## Syntax
 
 ```html
 {{#rating: title = [TITLE]
@@ -21,6 +21,6 @@ wfLoadExtension( 'MW_EXT_Rating' );
 }}
 ```
 
-## Donations / Пожертвования
+## Donations
 
 - [Donation Form](https://donation-form.github.io/)
